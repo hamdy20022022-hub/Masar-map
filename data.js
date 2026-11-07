@@ -1,11 +1,11 @@
-const hero = "assets/hero.jpg";
-const socotra = "assets/socotra.jpg";
-const shibam = "assets/shibam.jpg";
-const sanaa = "assets/sanaa.jpg";
-const aden = "assets/aden.jpg";
-const waterfall = "assets/waterfall.jpg";
-const marib = "assets/marib.jpg";
-const souq = "assets/souq.jpg";
+const hero = "hero.jpg";
+const socotra = "socotra.jpg";
+const shibam = "shibam.jpg";
+const sanaa = "sanaa.jpg";
+const aden = "aden.jpg";
+const waterfall = "waterfall.jpg";
+const marib = "marib.jpg";
+const souq = "souq.jpg";
 
 const images = { hero, socotra, shibam, sanaa, aden, waterfall, marib, souq };
 
